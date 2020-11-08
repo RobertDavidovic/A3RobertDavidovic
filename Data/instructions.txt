@@ -1,0 +1,22 @@
+Below are the following commands you can use to interact with the world around you! 
+
+To win you must use the accuse command in the murder location. From there you must accuse the correct
+suspect of being the Frankston Ripper. Make sure you have the murder weapon on you when you do this.
+
+The Ripper is lying about their alibi so make sure every suspect statement is verified.
+
+help - This will bring up this menu again incase you forget any commands
+map - This will show you all the world’s locations
+go <location> - This will take you to one of the locations
+question <person> - You interrogate the person selected
+search - You search the current area for clues
+get <item> - add item to bag
+bag - show all contained items
+drop <item> - drop item in room
+examine <item> - You try to find any clues on an item
+give <item> <person> - You give an item to a person
+accuse - Accuse the guilty person. You can only do this once.
+note - Open notepad to type notes.
+quit - Leave the game
+
+Write 'ready' to continue
